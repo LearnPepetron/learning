@@ -14,6 +14,16 @@ public class Uso_Coche {
         //System.out.println(Renault.dime_largo());
         Renault.establece_color();
         System.out.println(Renault.dime_color());
+
+
+        /*
+        4545
+         */
+        /*
+        otro mas
+        /*
+
+         */
     }
 
 }
